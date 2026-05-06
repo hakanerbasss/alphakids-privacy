@@ -16,7 +16,6 @@ The app uses your device's local storage (localStorage) solely to remember which
 
 ## Third Party Services
 - **Google AdMob** — for optional rewarded advertisements
-- **Firebase** — for app stability and crash reporting
 
 ## Contact
 If you have questions about this privacy policy, contact us at: wizaicorp@gmail.com
